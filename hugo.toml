@@ -1,11 +1,12 @@
-baseURL = 'https://liuyiling1203.github.io/chiteng-tech-website/'
+baseURL = 'https://liuyiling1203.github.io/Chiteng-tech-website/'
 languageCode = 'zh-tw'
 title = '馳騰科技 - 專業標籤機與貼紙供應商'
 theme = 'sam'
 
 [params]
   description = "台灣專業標籤機與貼紙供應商，提供高品質的標籤解決方案"
-  author = "馳騰科技"
+  author = "馳騰科技股份有限公司"
+  company = "馳騰科技"
   dateFormat = "2006-01-02"
   
   # 社交媒體連結
