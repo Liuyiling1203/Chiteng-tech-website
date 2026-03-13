@@ -1,0 +1,22 @@
+{
+  "name": "chiteng-tech-website",
+  "version": "1.0.0",
+  "description": "馳騰科技官方網站 - 專業標籤機與貼紙供應商",
+  "scripts": {
+    "build": "hugo --gc --minify",
+    "dev": "hugo server -D"
+  },
+  "dependencies": {
+    "hugo-bin": "^0.123.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Liuyiling1203/Chiteng-tech-website.git"
+  },
+  "keywords": ["標籤機", "貼紙", "台灣", "企業網站", "B2B", "B2C"],
+  "author": "馳騰科技股份有限公司",
+  "license": "ISC"
+}
